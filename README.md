@@ -15,4 +15,9 @@ Pomodoro PanPan ⏳
 **Demo проекта по ссылке:** https://cherktest.github.io/pomodoro.io/
 
 ![image](https://github.com/cherktest/pomodoro.io/assets/40435922/e391ad91-2e0a-4e7f-83cd-8825332b8db1)
-![image](https://github.com/cherktest/pomodoro.io/assets/40435922/99e32b1a-0581-43d2-9b92-2fe938644d16)
+
+
+
+
+https://github.com/cherktest/pomodoro.io/assets/40435922/ccf37bd8-be87-4f4c-8d76-a6779abe5c90
+
